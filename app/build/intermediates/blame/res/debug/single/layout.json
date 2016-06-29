@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\WallpaperPortal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\WallpaperPortal\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\WallpaperPortal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\WallpaperPortal\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\WallpaperPortal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selectfolderlist.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\WallpaperPortal\\app\\src\\main\\res\\layout\\selectfolderlist.xml"
+    }
+]
